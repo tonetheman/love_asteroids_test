@@ -1,4 +1,4 @@
-local vector = require("vector")
+
 local Object = require("classic")
 
 local player = nil
